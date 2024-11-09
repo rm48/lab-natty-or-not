@@ -20,22 +20,23 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Imagem AI Generativa
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Criaçao de uma imagem realista usando inteligencia artificial
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Usei este site: https://www.shakker.ai/aigenerator
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Usei o seguinte prompt: “a photographic portrait of man in a cap walking a black labrador dog on a bike path inside a eucalyptus forest”
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+![de costas](https://github.com/user-attachments/assets/edea1a13-5119-44d6-87e0-0aae33a4982b)
+
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+Pra um total inicinte, o resultado ficou bom. agora é continuar estudando e aprimorar a técnica.
 ```
 
 ### Exemplos e Insigths
