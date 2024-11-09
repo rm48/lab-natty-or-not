@@ -17,33 +17,47 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
     3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
 1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
 
-### Template
+</br>  
 
-```markdown
+> ## APRESENTAÇÃO DO PROJETO PERSONALIZADO 🤓
+> 
 # Imagem AI Generativa
 
 ## 📒 Descrição
+<p align='justify'>
 Criaçao de uma imagem realista usando inteligencia artificial
+</p>
+
+---
 
 ## 🤖 Tecnologias Utilizadas
-Usei este site: https://www.shakker.ai/aigenerator
+Usei este site: **[shakker](https://www.shakker.ai/aigenerator)**
+
+---
 
 ## 🧐 Processo de Criação
+<p align='justify'>
 Usei o seguinte prompt: “a photographic portrait of man in a cap walking a black labrador dog on a bike path inside a eucalyptus forest”
+</p>
+
+---
 
 ## 🚀 Resultados
-![de costas](https://github.com/user-attachments/assets/edea1a13-5119-44d6-87e0-0aae33a4982b)
+<p align='justify'>
+A imagem ficou bem realista:
+</p> 
+![imagem 1](https://github.com/user-attachments/assets/f14028bc-d337-4b26-876c-a8a3df85c985)
 
+![imagem 2](https://github.com/user-attachments/assets/edea1a13-5119-44d6-87e0-0aae33a4982b)
+
+---
 
 ## 💭 Reflexão (Opcional)
-Pra um total inicinte, o resultado ficou bom. agora é continuar estudando e aprimorar a técnica.
-```
+<p align='justify'>
+Pra um total iniciante, o resultado ficou bom. agora é continuar estudando e aprimorar a técnica.
+</p>
 
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
+--- 
 
 ## Links Interessantes
 
