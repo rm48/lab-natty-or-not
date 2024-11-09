@@ -43,10 +43,12 @@ Usei o seguinte prompt: “a photographic portrait of man in a cap walking a bla
 ---
 
 ## 🚀 Resultados
-<p align='justify'>
 A imagem ficou bem realista:
-</p> 
-![imagem 1](https://github.com/user-attachments/assets/f14028bc-d337-4b26-876c-a8a3df85c985)
+
+![de lado](https://github.com/user-attachments/assets/1b1351f4-fe4d-4818-9aea-4daa8049c68f)
+
+
+Pedi pra AI criar variações da imagem. Gostei desta:
 
 ![imagem 2](https://github.com/user-attachments/assets/edea1a13-5119-44d6-87e0-0aae33a4982b)
 
@@ -54,10 +56,11 @@ A imagem ficou bem realista:
 
 ## 💭 Reflexão (Opcional)
 <p align='justify'>
-Pra um total iniciante, o resultado ficou bom. agora é continuar estudando e aprimorar a técnica.
+Para um total iniciante, o resultado ficou bom. Agora é continuar estudando e aprimorar a técnica.
 </p>
 
 --- 
+
 
 ## Links Interessantes
 
